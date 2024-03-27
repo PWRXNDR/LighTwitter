@@ -1,5 +1,5 @@
 # TWUST
-Rust-code based Twitter prototype. Still in works
+Rust-code based Twitter prototype. 
 ## Design
 
 The `design/` directory contains a some design-related files:
